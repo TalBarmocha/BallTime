@@ -12,7 +12,8 @@ The BallTime app is designed to help you keep track of the scores for two basket
 
 ## Screenshots
 
-*(Add screenshots of your app here)*
+![Alt Text](Images/image.png)
+
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open a pull request or issue.
