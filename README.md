@@ -19,7 +19,7 @@ The BallTime app is designed to help you keep track of the scores for two basket
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open a pull request or issue.
 
 ## License
-ll Rights Reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.
+All Rights Reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.
 
 ## Contact
 For any inquiries or feedback, please reach out to me at talb999@gmail.com.
